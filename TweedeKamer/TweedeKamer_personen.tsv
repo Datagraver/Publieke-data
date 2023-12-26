@@ -1,4 +1,4 @@
-Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	Geslacht	Geboortejaar	Geboortemaand	Geboortedag	Sterfjaar	Sterfmaand	Sterfdag	Andere naam 1
+Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	Geslacht	Geboortejaar	Geboortemaand	Geboortedag	Sterfjaar	Sterfmaand	Sterfdag	Andere naam
 181509060	Olimart	d'	Mr.	J.A.	Jean Adolphe		m	1740	4	9	1820	12	18	
 181509009	Busch			J.	Johan		m	1742	4	15	1817	8	21	
 181510002	Collot d'Escury	baron		J.M.	Johan Marthe		m	1742	7	6	1817	12	1	
@@ -2330,7 +2330,7 @@ Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	
 201703068	Dam	van	mr. MPM	C.J.L.	Christiaan Jan Lodewijk	Chris	m	1963	7	9				
 199805013	Bos		Drs.	W.J.	Wouter Jacob	Wouter	m	1963	7	14				
 200207003	Eski		Drs.	N.	Nihat	Nihat	m	1963	7	24				
-200105001	Çörüz		Mr.	C.	Cokun	Cokun	m	1963	8	15				
+200105001	Çörüz		Mr.	C.	Co_x0010__x0011__x0015__x001F_kun	Co_x0010__x0011__x0015__x001F_kun	m	1963	8	15				
 202103036	Vijlbrief			J.A.	Johannes Alexander	Hans	m	1963	8	17				
 199808012	Wilders			G.	Geert	Geert	m	1963	9	6				
 200611015	Dijck	van	Ir.	A.P.C.	Antoine Pierre Cornelis	Tony	m	1963	9	13				
@@ -2795,3 +2795,5 @@ Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	
 202312067	Valize		Ing	J.J.T.M.	Johannes Jacobus Theodorus Maria	Jan	m	1982	9	14				
 202312068	Heutink			H.D. 	Hidde Derek	Hidde	m	1993	7	1				
 202312069	Pool		Drs.	J.	Joeri	Joeri	m	1993	2	22				
+202312070	Synhaeve			M.	Marijke	Marijke	v	1989	11	5				
+202312071	Dobbe			S.E.M.	Sarah Esperanza Maria	Sarah	v	1979	4	5				
