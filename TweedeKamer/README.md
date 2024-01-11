@@ -11,3 +11,6 @@ Alle datums zijn uit elkaar gehaald in jaar/maand/dag. Dit is mede vanwege het g
 Het zijn TSV bestanden (kolommen gescheiden door tabs) in UTF-8.
 
 Voor het verzamelen van de data hebben we naast de site van de [Tweede Kamer](https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden) zelf en het [open dataportaal van de Tweede Kamer](https://opendata.tweedekamer.nl/) ook gebruik gemaakt van [Wikipedia](https://nl.wikipedia.org/wiki/Lijst_van_Tweede_Kamerleden_2021-2023) en [Parlement.com](https://www.parlement.com/)https://www.parlement.com/.
+
+Dank voor de bijdragen en correcties:
+- Henk van Huizen
