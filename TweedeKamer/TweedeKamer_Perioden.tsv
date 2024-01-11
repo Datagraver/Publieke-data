@@ -8280,7 +8280,7 @@ Persoonnummer	Naam (check)	Functie	Fractienaam	Beginjaar	Beginmaand	Begindag	Ein
 201609002	Asante		PvdA	2016	9	7	2017	3	22	Vervangt Jadnanansing
 201611001	Geselschap		VVD	2016	11	30	2017	3	22	Vervangt Michiel van Veen
 201612001	Ünver		PvdA	2016	12	13	2017	3	22	Vervangt Sjoera Dikkers (ipv vd Velde)
-201703013	Jong		PVV	2017	3	23	2017	3	30	
+201006031	Jong		PVV	2017	3	23	2017	3	30	
 200301022	Rutte		VVD	2017	3	23	2017	10	23	
 201006016	Dijkhoff		VVD	2017	3	23	2017	10	23	
 200003001	Dijsselbloem		PvdA	2017	3	23	2017	10	24	
@@ -8539,7 +8539,7 @@ Persoonnummer	Naam (check)	Functie	Fractienaam	Beginjaar	Beginmaand	Begindag	Ein
 201703007	Westerveld		GroenLinks	2021	3	31	2023	12	5	
 201703010	Raemakers		D66	2022	2	16	2023	12	5	
 201703012	Becker		VVD	2022	11	28	2023	12	5	
-201703013	Jong		PVV	2021	3	31	2023	12	5	
+201006031	Jong		PVV	2021	3	31	2023	12	5	
 201703016	Paternotte		D66	2022	1	11	2023	12	5	
 201703017	Kröger		GroenLinks	2021	10	27	2023	12	5	
 201703020	Berg		CDA	2021	9	7	2023	12	5	
@@ -8670,7 +8670,7 @@ Persoonnummer	Naam (check)	Functie	Fractienaam	Beginjaar	Beginmaand	Begindag	Ein
 201209012	Keijzer		BBB	2023	12	6				
 201703004	Markuszower		PVV	2023	12	6				
 201209022	Mohandis		GL-PvdA	2023	12	6				
-201703013	Jong		PVV	2023	12	6				
+201006031	Jong		PVV	2023	12	6				
 201211007	Vries		VVD	2023	12	6				
 201703027	Aartsen		VVD	2023	12	6				
 201703028	Teunissen		PvdD	2023	12	6				
@@ -8723,8 +8723,8 @@ Persoonnummer	Naam (check)	Functie	Fractienaam	Beginjaar	Beginmaand	Begindag	Ein
 201703057	Vree		PVV	2023	12	6				
 202312010	Aardema		PVV	2023	12	6				
 202312011	Vlottes		PVV	2023	12	6				
-202103071	Plas		BBB	2023	12	6				
-202312012	Boon	Fractievoorzitter	PVV	2023	12	6				
+202103071	Plas	Fractievoorzitter	BBB	2023	12	6				
+202312012	Boon		PVV	2023	12	6				
 201703058	Marijnissen	Fractievoorzitter	SP	2023	12	6	2023	12	12	
 201703059	Beckerman		SP	2023	12	6				
 201703024	Kent		SP	2023	12	6				
@@ -8779,8 +8779,8 @@ Persoonnummer	Naam (check)	Functie	Fractienaam	Beginjaar	Beginmaand	Begindag	Ein
 202312048	Chakor		GL-PvdA	2023	12	6				
 202312049	Nordkamp		GL-PvdA	2023	12	6				
 202312050	Stultiens		GL-PvdA	2023	12	6				
-202312051	Meetelen		PVV	2023	12	6				
-202312052	Claassen		PVV	2023	12	6				
+202312001	Meetelen		PVV	2023	12	6				
+202312002	Claassen		PVV	2023	12	6				
 202312053	Blaauw		PVV	2023	12	6				
 202312054	Velde		PVV	2023	12	6				
 202312055	Hoeff		PVV	2023	12	6				
