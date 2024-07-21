@@ -1714,7 +1714,7 @@ Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	
 197212022	Stee	van der	Mr.	A.P.J.M.M.	Alphonsus Petrus Johannes Mathildus Maria	Fons	m	1928	7	30	1999	9	9	
 197212023	Waltmans		Dr.	H.J.G.	Hendrik Jan Gerardus	Henk	m	1930	3	28	2013	5	4	
 197301001	Aarts		Drs.	H.J.B.	Henricus Johannes Bernardus	Harry	m	1930	3	9	2020	3	25	
-197301002	Agt	van	Mr.	A.A.M.	Andreas Antonius Maria	Dries	m	1931	2	2				
+197301002	Agt	van	Mr.	A.A.M.	Andreas Antonius Maria	Dries	m	1931	2	2	2024	2	5	
 197301003	Scherpenhuizen		Drs.	J.F.	Jaap Frederik	Jaap	m	1934	4	18	2012	9	2	
 197302001	Konings			M.J.	Martinus Johannes	Martin	m	1929	3	15	2020	7	28	
 197303001	Houwelingen	van		J.	Jan	Jan	m	1939	12	8	2013	3	17	
@@ -2171,7 +2171,7 @@ Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	
 200102001	Pater-van der Meer	de		M.L.	Maartje Lena	Marleen	v	1950	11	19	2015	12	13	
 200102002	Slob		Drs.	A.	Arie	Arie	m	1961	11	16				
 200104001	Splunter	van	Drs.	E.F.	Ernst Frits	Ernst	m	1963	2	19				
-200105001	Çörüz		Mr.	C.	Co_x0010__x0011__x0015__x001F_kun	Co_x0010__x0011__x0015__x001F_kun	m	1963	8	15				
+200105001	Çörüz		Mr.	C.	Cokun	Cokun	m	1963	8	15				
 200106001	Pitstra		Drs.	T.	Tom	Tom	m	1949	8	6				
 200111001	Horn		Dr.	G.J.C.	Gerardus Jozef Catharina	Jo	m	1946	10	16				
 200112001	Verbeet		Mw.	G.A.	Gerardina Alida	Gerdi	v	1951	4	18				
@@ -2794,3 +2794,15 @@ Persoonnummer	Achternaam	Voorvoegsels	Titelatuur	Voorletters	Voornamen	Roepnaam	
 202312069	Pool		Drs.	J.	Joeri	Joeri	m	1993	2	22				
 202312070	Synhaeve			M.	Marijke	Marijke	v	1989	11	5				
 202312071	Dobbe			S.E.M.	Sarah Esperanza Maria	Sarah	v	1979	4	5				
+202407001	Boomsma		MSc	D.	Diederik	Diederik	m	1978	6	22				
+202407002	Buijsse		MSc	M.R.G.		Martijn	m	1981	9	21				
+202407003	Dral			R.M.		Rosemarijn	v	1985	1	3				
+202407004	Faddegon			C.J.	Christian Joseph	Chris	m	1954	8	18				
+202407005	Heite		drs.	A.	Annemarie	Annemarie	v	1970	11	1				
+202407006	Rep			R.J.H.H.	Robert Johannes Hendrikus Hermanus	Robert	m	1965	12	30				
+202407007	Rikkers-Oosterkamp			M.G.F.	Mariska Geertruida Fenna	Mariska	v	1977	6	23				
+202407008	Saris		drs.	I.G.	Ilse G.	Ilse	v	1975	9	23				
+202407009	Thiadens			F.M.	Folkert Mattijs	Folkert	m	1966	6	6				
+202407010	Uppelschoten		drs.	N.A.	Nico A.	Nico	m	1944	6	21				
+202407011	Wijen-Nass			M.	Marieke	Marieke	v	1993	3	10				
+202407012	Wingelaar			N.T.P.		Natascha	v	1974	1	11				
