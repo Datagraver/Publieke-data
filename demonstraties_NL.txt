@@ -1,0 +1,58 @@
+Rang	Jaar	Datum	Plaats	Onderwerp	Ondergrens	Bovengrens	Organisatie	Verwijzing	Verwijzing 2	Opmerking
+	1923	23-09-1923	Amsterdam	Tegen de vlootwet en bezuinigingen		 70.000 	 SDAP en NVV 			
+	1967	20-05-1967	Amsterdam	Tegen oorlog Vietnam, stille tocht		 10.000 		https://isgeschiedenis.nl/reportage/johnson-moordenaar-of-molenaar-nederlandse-protesten-tegen-de-vietnamoorlog		
+	1973	06-01-1973	Utrecht	Tegen oorlog Vietnam	 80.000 	 100.000 		https://isgeschiedenis.nl/reportage/johnson-moordenaar-of-molenaar-nederlandse-protesten-tegen-de-vietnamoorlog	https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010825331:mpeg21:p003	
+	1973	18-04-1973	Den Haag	Voortbestaan Veronica	 50.000 	 60.000 		https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000032284:mpeg21:p006		
+	1980	19-10-1980	Dodewaard	Tegen kernenergie		 15.000 		https://www.historischnieuwsblad.nl/vijfentwintig-jaar-na-de-eerste-grote-blokkade-bij-dodewaard/		
+	1980		Amsterdam	Tegen CAO plannen		 150.000 				
+	1981	21-11-1981	Amsterdam	Antikernwapens, Kruisraketten Nee	 400.000 	 440.000 	 Interkerkelijk Vredesberaad 			
+	1983	29-10-1983	Den Haag	Antikernwapens, Kruisraketten Nee		 550.000 	 Komitee Kruisraketten Nee 	https://nl.wikipedia.org/wiki/Antikernwapendemonstratie_van_29_oktober_1983		
+	1983		Den Haag	Ontkoppeling lonen en uitkeringen		 100.000 				
+	1985	26-10-1985	Den Haag	Kruisraketten Nee - petitie		 25.000 		https://www.nrc.nl/nieuws/1985/10/28/lubbers-uitgescholden-en-weggefloten-bij-volkspetitionnement-kb_000029982-a3643371	https://www.vredesmuseum.nl/affiches/viewer.php?afnr=134	
+	1987		Landelijk	Tegen bezuinigingen onderwijs - Deetman		 150.000 				
+	1988	11-06-1988	Amsterdam	Anti-apartheidsdemonstratie	 50.000 	 60.000 		https://www.facebook.com/OnsAmsterdam/posts/in-1988-vond-in-amsterdam-de-grootste-nederlandse-demonstratie-tegen-de-zuid-afr/1374510229240832/	https://upjournals.up.ac.za/index.php/historia/article/view/1157	
+	1988	07-10-1988	Amsterdam	Het kan anders, het kan beter. Tegen werkeloosheidsbeleid Lubbers		 150.000 	 FNV 			
+	1988	16-11-1988	Landelijk	Demonstraties bij stakende studenten		 15.000 		https://www.digibron.nl/viewer/collectie/Digibron/id/tag:RD.nl,19881117:newsml_64af4b12eccf736cbd9ae9dd5013ed3e		200000 stakende studenten.
+	1991		Den Haag	Handen af van de WAO		 250.000 				
+	1992	21-03-1992	Amsterdam	Nederland Bekent Kleur		 80.000 	 Comite 21 Maart 	https://comite21maart.nl/		
+	2003	15-02-2003		Protest tegen oorlog in Irak		 80.000 				
+	2003	22-03-2003		Protest tegen oorlog in Irak	 20.000 	 100.000 				
+	2003	20-09-2003		Keer 't tij, protest tegen regeringsbeleid Balkenende 2		 25.000 	Keer het Tij			
+	2004	10-04-2004	Amsterdam	Voor Generaal Pardon	 10.000 	 15.000 	Keer het Tij			
+	2004	20-09-2004	Rotterdam	Vakbonden, Protest tegen regeringsbeleid Balkenende 2	 30.000 	 60.000 	 Vakbonden 	https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBPERS01:003224018:mpeg21:a00007		
+	2004	02-10-2004	Amsterdam	Protest tegen regeringsbeleid Balkenende 2	 200.000 	 300.000 	 Vakbonden en Keer het Tij 			
+	2007	30-11-2007	Den Haag	Tegen 1040 uren norm OCW	 15.000 	 24.000 	 LAKS 			
+	2019	07-02-2019	Den Haag	Scholierenmars, klimaatspijbelaars	 10.000 	 15.000 		https://www.duurzaamnieuws.nl/klimaatstakers-gaan-door-na-gesprek-met-rutte/	https://www.rtl.nl/nieuws/artikel/4601421/trein-en-perrons-puilen-uit-scholieren-massaal-naar-den-haag	
+	2019	10-03-2019	Amsterdam	Klimaatmars		 40.000 	 Diverse 			
+	2019	15-03-2019	Den Haag	Hoger salaris en minder werkdruk onderwijs	 35.000 	 40.000 	 Aob, FNV onderwijs en onderzoek 			
+	2019	27-09-2019	Den Haag	Klimaatstaking voor een eerlijk en ambitieus klimaatbeleid		 35.000 	 Diverse organisaties 			
+	2019	01-10-2019	Den Haag	Boerenprotest	 20.000 	 25.000 	 Farmers Defence Force 			
+	2019	16-10-2019	De Bilt	Boerenprotest	 20.000 	 25.000 	 Farmers Defence Force 			
+	2021	05-09-2021	Amsterdam	Protestmars tegen het coronabeleid		 20.000 	 Hart voor vrijheid en andere organisaties 			
+	2022	27-02-2022	Amsterdam	Solidariteit Oekraïne		 15.000 		https://nos.nl/collectie/13888/artikel/2419108-demonstraties-voor-oekraine-in-nederland-en-buitenland-mooi-om-eenheid-te-zien		
+	2023	12-11-2023	Amsterdam	Mars voor klimaat en rechtvaardigheid		 85.000 				
+	2024	31-05-2024	Amsterdam	Klimaatmars		 15.000 	 Klimaatcrisis coalitie 	https://www.parool.nl/amsterdam/de-klimaatmars-op-de-zuidas-had-het-gemunt-op-de-vrijmibo-this-is-a-crime-scene~b318e68a/		
+	2024	25-11-2024	Den Haag	Tegen bezuinigingen onderwijs	 10.000 	 20.000 	 Onderwijsvakbonden, studentenvakbonden, universiteiten 	https://nos.nl/artikel/2545894-duizenden-studenten-en-medewerkers-protesteren-in-den-haag-tegen-bezuinigingen		
+	2025	22-03-2025	Amsterdam	Demonstratie tegen racisme en discriminatie		 10.000 	 21-maart Comité 			
+	2025	18-05-2025	Den Haag	Rode Lijn - Tegen genocide Gaza		 100.000 	 Diverse organisaties 	https://nl.wikipedia.org/wiki/Rode_Lijn-demonstratie		
+	2025	24-05-2025	Amsterdam	Tegen kabinetsbeleid voor meer solidariteit, diversiteit en leefbare toekomst		 15.000 	 De Straat op 	https://www.parool.nl/amsterdam/ruim-15-000-mensen-demonstreren-in-amsterdam-tegen-het-kabinetsbeleid-en-voor-een-leefbare-toekomst~ba7c11de/?referrer=https%3A%2F%2Fduckduckgo.com%2F		
+	2025	15-06-2025	Den Haag	Rode Lijn - Tegen genocide Gaza		 150.000 	 Diverse organisaties 	https://nl.wikipedia.org/wiki/Rode_Lijn-demonstratie		
+	2025	05-10-2025	Amsterdam	Rode Lijn - Tegen genocide Gaza		 250.000 	 Diverse organisaties 	https://nl.wikipedia.org/wiki/Rode_Lijn-demonstratie		
+				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
